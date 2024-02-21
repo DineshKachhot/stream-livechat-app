@@ -1,4 +1,4 @@
-package com.endometriose.meetingsAppFinal
+package com.kd.meetingsAppFinal
 import android.app.PictureInPictureParams
 import androidx.lifecycle.Lifecycle
 import android.util.Rational

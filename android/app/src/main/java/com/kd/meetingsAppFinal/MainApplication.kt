@@ -1,4 +1,4 @@
-package com.endometriose.meetingsAppFinal
+package com.kd.meetingsAppFinal
 
 import android.app.Application
 import android.content.res.Configuration

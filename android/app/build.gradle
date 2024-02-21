@@ -88,9 +88,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.endometriose.meetingsAppFinal'
+    namespace 'com.kd.meetingsAppFinal'
     defaultConfig {
-        applicationId 'com.endometriose.meetingsAppFinal'
+        applicationId 'com.kd.meetingsAppFinal'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -17,14 +17,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.endometriose.meetingsAppFinal"
+      "bundleIdentifier": "com.kd.meetingsAppFinal"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.endometriose.meetingsAppFinal"
+      "package": "com.kd.meetingsAppFinal"
     },
     "web": {
       "bundler": "metro",

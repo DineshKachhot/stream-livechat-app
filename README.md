@@ -21,7 +21,7 @@ Meeting app is a mobile app for video calling and live group in video meeting.
 
 ## Screenshots
 
-![Meetings](assets/screenshots/meetings.PNG)
+![Meetings](assets/screenshots/mettings.PNG)
 ![Video call room](assets/screenshots/video-call-room.PNG)
 ![Group chat](assets/screenshots/group-chat.PNG)
 ![Reactions](assets/screenshots/reactions.PNG)

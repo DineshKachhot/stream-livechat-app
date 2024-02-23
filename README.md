@@ -21,6 +21,11 @@ Meeting app is a mobile app for video calling and live group in video meeting.
 
 ## Screenshots
 
+![Meetings](assets/screenshots/meetings.PNG)
+![Video call room](assets/screenshots/video-call-room.PNG)
+![Group chat](assets/screenshots/group-chat.PNG)
+![Reactions](assets/screenshots/reactions.PNG)
+
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
 [expo (React Native)]: https://expo.dev/
 [Express JS]: https://expressjs.com/

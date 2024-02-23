@@ -21,10 +21,12 @@ Meeting app is a mobile app for video calling and live group in video meeting.
 
 ## Screenshots
 
+<p float="left">
 <img src="assets/screenshots/mettings.PNG" alt="Meetings" width="200"/>
 <img src="assets/screenshots/video-call-room.PNG" alt="Video call room" width="200"/>
 <img src="assets/screenshots/group-chat.PNG" alt="Group chat" width="200"/>
 <img src="assets/screenshots/reactions.PNG" alt="Reactions" width="200"/>
+</p>
 
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
 [expo (React Native)]: https://expo.dev/
